@@ -1,1 +1,5 @@
 CLAUDE.md
+build/
+build-host/
+__pycache__/
+compile_commands.json
